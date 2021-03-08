@@ -19,7 +19,7 @@ public class ArraySearch {
 				return;
 			} 
 		}
-		System.out.println("Not found");
+		System.out.println("Not found!");
 	}
 
 }
