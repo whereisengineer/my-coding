@@ -30,7 +30,7 @@ public class SearchingProb1 {
 				--l;
 			}
 		}
-		System.out.println("Sum not found!");
+		System.out.println("Sum not found!!");
 	}
 
 }
