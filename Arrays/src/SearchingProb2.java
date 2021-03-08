@@ -1,4 +1,4 @@
-//Searching in an array where adjacent differ by at most k
+//Searching in an array where adjacent differ by at most k.
 public class SearchingProb2 {
 	public static void main(String[] arg)
 	{
