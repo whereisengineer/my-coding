@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-//Given an array A[] and a number x, check for pair in A[] with sum as x
+//Given an array A[] and a number x, check for pair in A[] with sum as x.
 public class SearchingProb1 {
 	public static void main(String[] arg)
 	{
