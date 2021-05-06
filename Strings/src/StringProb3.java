@@ -1,4 +1,4 @@
-//Missing characters to make a string Pangram
+//Missing characters to make a string Pangram.
 public class StringProb3 {
 	
 	public static void main(String[] arg)
