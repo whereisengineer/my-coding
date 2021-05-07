@@ -3,7 +3,7 @@ public class StringProb7 {
 	
 	public static void main(String[] arg)
 	{
-		String str = "aaaaaa.";
+		String str = "aaaaaa";
 		String str2 = "Gaurav";
 		
 		checkChar(str);
