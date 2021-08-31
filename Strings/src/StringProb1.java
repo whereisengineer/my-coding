@@ -1,4 +1,4 @@
-//Function to copy string 
+//Function to copy string .
 public class StringProb1 {
 	
 	public static void main(String[] arr)
