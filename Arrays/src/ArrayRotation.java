@@ -1,4 +1,4 @@
-//challenge : Rotate an array by number d
+//challenge : Rotate an array by number d.
 import java.util.*;
 public class ArrayRotation {
 	public static void main(String[] args) {
